@@ -1,8 +1,14 @@
 aid: plumery
 name: Plumery
-description: 'Plumery is a company surfaced as a portfolio company of qed-investors, seedcamp and added
-  to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Plumery is an Amsterdam, Netherlands-based fintech that provides a headless,
+  mobile-first digital banking engagement platform it markets as the "Digital Success
+  Fabric" — a "Digital Engagement Platform for Banks." It lets banks, credit unions,
+  and financial institutions build and launch branded mobile and web banking experiences
+  on top of their existing core banking systems, delivered to engineering teams as
+  an API-first, composable platform with SDKs and developer documentation (built on
+  the Stainless docs/SDK toolchain). Plumery maintains a public GitHub organization
+  of supporting engineering tooling and publishes a security & compliance program
+  (SOC 2, ISO 27001). The company is backed by QED Investors and Seedcamp.'
 url: https://raw.githubusercontent.com/api-evangelist/plumery/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +17,30 @@ x-backed-by:
 - seedcamp
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://plumery.com/wp-content/uploads/2025/01/Profile-Photo-1.jpg
 tags:
 - Company
 - Fintech
+- Banking
+- Digital Banking
+- Financial Services
+- Mobile Banking
+- Platform
+- Netherlands
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,4 +49,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://plumery.com
+  url: https://plumery.com
+- type: Documentation
+  url: https://docs.plumery.com
+- type: DeveloperPortal
+  url: https://developer.plumery.com
+- type: GitHubOrganization
+  url: https://github.com/plumery
+- type: Compliance
+  url: https://plumery.com/security-compliance/
+- type: TrustCenter
+  url: security/plumery-trust-center.yml
+- type: DomainSecurity
+  url: security/plumery-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
