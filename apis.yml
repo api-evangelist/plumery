@@ -48,7 +48,7 @@ tags:
 - Fintech
 - Banking
 - Digital Banking
-- Financial-Services
+- Financial Services
 - Mobile Banking
 - Platform
 - Netherlands
@@ -61,6 +61,7 @@ tags_raw:
 - Mobile Banking
 - Platform
 - Netherlands
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
