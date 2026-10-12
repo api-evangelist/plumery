@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/plumery/integrations
+- https://n8n.io/integrations/plumery/
+- https://composio.dev/toolkits/plumery
+- https://monid.ai/tools/plumery
+checked:
+- https://composio.dev/toolkits/plumery
+- https://monid.ai/tools/plumery
+- https://n8n.io/integrations/plumery/
+- https://zapier.com/apps/plumery/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
